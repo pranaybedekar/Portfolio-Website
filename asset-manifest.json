@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-Website/static/css/main.040e9a51.css",
-    "main.js": "/Portfolio-Website/static/js/main.a3b59c66.js",
+    "main.css": "/Portfolio-Website/static/css/main.3f5d6137.css",
+    "main.js": "/Portfolio-Website/static/js/main.cd43707a.js",
     "static/media/about_anime.gif": "/Portfolio-Website/static/media/about_anime.986764c2696118dcbe90.gif",
     "static/media/home_anime.gif": "/Portfolio-Website/static/media/home_anime.f372ef867ab6dc71a52b.gif",
     "static/media/skills_vector.png": "/Portfolio-Website/static/media/skills_vector.1fb5f4a4d14c368c84df.png",
@@ -10,11 +10,11 @@
     "static/media/Facebook.png": "/Portfolio-Website/static/media/Facebook.6327c4437b545ad6980e.png",
     "static/media/twitter.png": "/Portfolio-Website/static/media/twitter.8926ec403245c8601a84.png",
     "index.html": "/Portfolio-Website/index.html",
-    "main.040e9a51.css.map": "/Portfolio-Website/static/css/main.040e9a51.css.map",
-    "main.a3b59c66.js.map": "/Portfolio-Website/static/js/main.a3b59c66.js.map"
+    "main.3f5d6137.css.map": "/Portfolio-Website/static/css/main.3f5d6137.css.map",
+    "main.cd43707a.js.map": "/Portfolio-Website/static/js/main.cd43707a.js.map"
   },
   "entrypoints": [
-    "static/css/main.040e9a51.css",
-    "static/js/main.a3b59c66.js"
+    "static/css/main.3f5d6137.css",
+    "static/js/main.cd43707a.js"
   ]
 }
