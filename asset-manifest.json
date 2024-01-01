@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio-Website/static/css/main.f76835a9.css",
+    "main.css": "/Portfolio-Website/static/css/main.567a77aa.css",
     "main.js": "/Portfolio-Website/static/js/main.061714c2.js",
     "static/media/about_anime.gif": "/Portfolio-Website/static/media/about_anime.986764c2696118dcbe90.gif",
     "static/media/home_anime.gif": "/Portfolio-Website/static/media/home_anime.f372ef867ab6dc71a52b.gif",
@@ -9,11 +9,11 @@
     "static/media/contact_anime.png": "/Portfolio-Website/static/media/contact_anime.1f3936c4dbee6daaaa77.png",
     "static/media/Facebook.png": "/Portfolio-Website/static/media/Facebook.6327c4437b545ad6980e.png",
     "index.html": "/Portfolio-Website/index.html",
-    "main.f76835a9.css.map": "/Portfolio-Website/static/css/main.f76835a9.css.map",
+    "main.567a77aa.css.map": "/Portfolio-Website/static/css/main.567a77aa.css.map",
     "main.061714c2.js.map": "/Portfolio-Website/static/js/main.061714c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.f76835a9.css",
+    "static/css/main.567a77aa.css",
     "static/js/main.061714c2.js"
   ]
 }
