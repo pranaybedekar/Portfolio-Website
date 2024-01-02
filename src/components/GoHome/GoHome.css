@@ -1,0 +1,49 @@
+.go-home-btn {
+    position: fixed;
+    bottom: 28px;
+    right: 28px;
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    border-style: none;
+    box-shadow: 0px 4px 31px rgba(82, 36, 36, 0.15);
+}
+
+.go-home-btn:hover {
+    cursor: pointer;
+    box-shadow: 1px 10px 32px rgba(29, 1, 1, 0.45);
+    transition: all 0.3s ease-in-out;
+}
+
+.white-bkg {
+    background: #fff;
+}
+
+.gradient-bkg {
+    background: linear-gradient(39.97deg, #03d6f3 0.79%, #458ff6 79.29%);
+}
+
+.home-icon {
+    width: 40px;
+}
+
+@media only screen and (max-width: 640px) {
+    .go-home-btn {
+        position: fixed;
+        bottom: 28px;
+        right: 28px;
+        width: 40px;
+        height: 40px;
+        border-radius: 20px;
+        border-style: none;
+        box-shadow: 0px 4px 31px rgba(107, 103, 103, 0.15);
+    }
+    .go-home-btn:hover {
+        cursor: pointer;
+        box-shadow: 1px 10px 32px rgba(52, 3, 3, 0.45);
+        transition: all 0.3s ease-in-out;
+    }
+    .home-icon {
+        width: 25px;
+    }
+}

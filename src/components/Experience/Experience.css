@@ -1,0 +1,199 @@
+.project-cards-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 44px;
+    align-self: center;
+    justify-content: center;
+}
+
+.project-card {
+    width: 500px;
+    min-height: 550px;
+    background: #fff;
+    box-shadow: 20px 30px 20px rgba(100, 103, 112, 0.4);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    border: 1px solid rgb(211, 217, 218);
+}
+
+.project-card:hover {
+    box-shadow: 20px 30px 20px rgba(99, 93, 97, 0.4);
+    transition: all 0.3s;
+}
+
+.image-container {
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+}
+
+.project-external-link {
+    border-radius: inherit;
+}
+
+.project-image-1 {
+    display: block;
+    border-radius: inherit;
+    width: 500px;
+    height: 180px;
+}
+
+.project-details-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-self: flex-start;
+    padding: 20px;
+    text-align: justify;
+}
+
+.project-yt-link {
+    font-weight: 600;
+    color: #4089ed;
+}
+
+.project-yt-link-1 {
+    font-weight: 600;
+    color: #4089ed;
+    margin-left: 40px;
+}
+
+.project-heading-1 {
+    margin: 0;
+}
+
+.project-heading-2 {
+    margin: 0;
+}
+
+.project-details {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    color: #7d7987;
+}
+
+.container {
+    width: 500px;
+    min-height: 550px;
+    background: #fff;
+    box-shadow: 20px 30px 20px rgba(100, 103, 112, 0.4);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    border: 1px solid rgb(211, 217, 218);
+}
+
+.certificate-img {
+    width: 480px;
+    height: 130px;
+    margin-left: 12px;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 30px;
+    color: rgb(186, 22, 22);
+}
+
+.c-name {
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 10px;
+    color: #335a91;
+    text-decoration: none;
+    text-align: center;
+}
+
+.info {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    color: #7d7987;
+    margin-left: 20px;
+    text-align: justify;
+    margin-right: 20px;
+}
+
+.btn-1 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: #f5f5f5;
+    border: 1px solid #959292;
+    padding: 10px;
+    border-radius: 20px;
+    width: 110px;
+    margin-left: 190px;
+}
+
+.btn-text-1 {
+    font-size: 16px;
+    margin: auto;
+}
+
+.btn-white-11 {
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 640px) {
+    .project-cards-container {
+        padding: 20px;
+    }
+    .project-card {
+        width: 290px;
+        min-height: 500px;
+        box-shadow: 20px 30px 20px rgba(53, 54, 60, 0.4);
+        border: 1px solid rgb(211, 217, 218);
+    }
+    .project-image-1 {
+        display: block;
+        border-radius: inherit;
+        height: 150px;
+        width: 290px;
+        margin-top: 8px;
+    }
+    .project-card:hover {
+        box-shadow: 10px 40px 50px rgba(43, 45, 53, 0.4);
+        transition: all 0.3s;
+    }
+    .container {
+        width: 270px;
+        min-height: 500px;
+        box-shadow: 20px 30px 20px rgba(53, 54, 60, 0.4);
+        border: 1px solid rgb(211, 217, 218);
+        border-radius: 20px;
+    }
+    .certificate-img {
+        height: 120px;
+        width: 250px;
+    }
+    .c-name {
+        font-weight: bold;
+        font-size: 20px;
+        margin-top: 10px;
+        margin-left: 10px;
+        color: #335a91;
+        text-decoration: none;
+    }
+    .info {
+        margin-top: 10px;
+        font-weight: 200;
+        font-size: 13px;
+        line-height: 20px;
+        color: #7d7987;
+        text-align: justify;
+    }
+    .btn-1 {
+        margin-top: 25px;
+        margin-bottom: 25px;
+        background-color: #f5f5f5;
+        border: 1px solid #959292;
+        padding: 10px;
+        border-radius: 20px;
+        margin-left: 80px;
+    }
+}
